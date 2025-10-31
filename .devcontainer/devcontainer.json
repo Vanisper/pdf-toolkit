@@ -4,7 +4,7 @@
   "runArgs": [
     "--network=host",
     "--name",
-    "starter-bun"
+    "pdf-toolkit"
   ],
   "build": {
     // Update 'VARIANT' to pick a Bun version.
